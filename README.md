@@ -25,7 +25,7 @@ All content is open for discussion, improvement, or re-use.
 
 (You can list your posts here as you add them, for example:)
 
-- [Semantic constexpr values for C++ template parameters](posts/semantic_constexpr_values.md)  
+- [Semantic constexpr values for C++ template parameters](posts/semantic_constexpr_value.md)  
 - ...
 
 ---
